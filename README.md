@@ -103,60 +103,32 @@ const suresh = {
 <!--  5 & 6. GITHUB STATS + TOP LANGUAGES                   -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<div align="center">
 
-### 📊 GitHub Stats
 
-<a href="https://github.com/sureshkumar-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sureshkumar-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=CDD6F4" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshkumar-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=CDD6F4&langs_count=8" />
-</a>
 
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--  7. STREAK STATS                                        -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<div align="center">
 
-### 🔥 Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sureshkumar-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=70A5FD&ring=70A5FD&fire=FF6B6B&currStreakLabel=70A5FD&sideLabels=CDD6F4&dates=CDD6F4&currStreakNum=CDD6F4&sideNums=CDD6F4)](https://github.com/sureshkumar-dev)
-
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--  8. ACTIVITY GRAPH                                      -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<div align="center">
 
-### 📈 Activity Graph
 
-[![Suresh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sureshkumar-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FF6B6B)](https://github.com/sureshkumar-dev)
 
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--  9. TROPHY WALL                                         -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<div align="center">
 
-### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sureshkumar-dev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/sureshkumar-dev)
 
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--  10. WORK / PROJECT EXPERIENCE                          -->
